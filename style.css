@@ -1,0 +1,18 @@
+.carousal-size{
+    width: 1200px;
+    height: 600px;
+}
+
+.img-size{
+    width: 1600px;
+    height: 600px;
+}
+
+.position-carousal{
+    margin-left: auto;
+    margin-right: auto;
+}
+.borderc{
+    border: 3px solid yellow;
+
+}

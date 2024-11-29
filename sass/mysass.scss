@@ -1,0 +1,32 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+$enable-negative-margins: true;
+
+  .carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 500px;
+    margin-right: -100%;
+    backface-visibility: hidden;
+    @include transition($carousel-transition);
+  }
+
+  @media (max-width: 600px) {
+    .carousel-item {
+      height: 40vh;
+    }
+ }
+
+ .border-red{
+  border: 2px solid red;
+ }
+    
+ .border-blue{
+  border: 2px solid blue;
+ }
+  
+ .border-yellow{
+  border: 2px solid yellow;
+ }
+  @import "../node_modules/bootstrap/scss/bootstrap";
