@@ -45,3 +45,16 @@ The folder structure of the project is as follows:
 /images: Folder for any images used in the project.
 index.html: The main HTML file for the project.
 README.md: This file providing project details and documentation.
+
+## Screenshots:
+
+
+![HiCoder-home](https://github.com/user-attachments/assets/c52680ff-1aef-4995-80c8-85a27c4be20c)
+
+
+![HiCoder-about](https://github.com/user-attachments/assets/e4aaae13-b00a-47f5-a998-ff854186e91e)
+
+
+![HiCoder-contact](https://github.com/user-attachments/assets/0d7b29aa-483c-4bf1-8989-00e71f969838)
+
+
