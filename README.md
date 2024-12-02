@@ -10,7 +10,7 @@
 ## 3. Technologies Used
 - **HTML5**: Used for the basic structure and content of the website.
 - **CSS3 (SASS)**: The custom styles are written in **SASS** and compiled into **CSS**, providing better control and maintainability over the design.
-- **Bootstrap 5**: The frontend framework used to make the design responsive and visually appealing with components like the footer and navigation.
+- **Bootstrap 5**: The frontend framework is used to make the design responsive and visually appealing with components like the footer and navigation.
 - **JavaScript**: Used for Bootstrap’s interactive elements such as the collapsible navigation bar.
 
 ## 4. Installation
@@ -20,7 +20,7 @@ To view the project locally, follow these steps:
 1. Clone the repository to your local machine:
    Open your terminal or command line interface and run the following command:
    ```bash
-   git clone https://github.com/SabreenaFatimah-git/HiCoder--bootsrap-blog-website-.git
+   git clone https://github.com/SabreenaFatimah-git/HiCoder-bootsrap-blog-website.git
 
 ## 5. Open the E-book.html file in your browser to view the project.
 There are no additional setup steps required.
